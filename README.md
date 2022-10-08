@@ -7,3 +7,5 @@
 * EDA and Data Visualization with Plotly
 * EDA and Machine Learning
 * Capstone Project of SpaceX Launch Analysis
+
+The main branch contains a compilation of course LABs, the Capstone Project branch contains final project files
