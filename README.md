@@ -20,4 +20,4 @@
 * Perform Hyperparameter grid search
 * build a predictive models to help a business function more efficiently
 ## w5
-* Structure and build your data-findings report.
+* Structure and build a data-findings report
