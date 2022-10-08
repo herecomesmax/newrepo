@@ -1,5 +1,5 @@
 # Coursera IBM Data Science Certificate
-## This is a test repository includes major labs and projects.
+## This is a test repository includes major labs and projects of the course.
 ## Topics
 * Data Collection from Web Scraping
 * Data Wrangling
